@@ -1,3 +1,3 @@
 print 'This is a test'
-print 'More testing'
-print 'More more testing'
+print 'More testing!'
+print 'More more testing!'
